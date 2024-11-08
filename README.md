@@ -1,7 +1,4 @@
-
-Here's a sample README file that highlights your skills, expertise, and portfolio projects. Feel free to adjust it to suit your personal style or add specific project links.
-
-Hi, I'm Pitambar 👋
+**Hi, I'm Pitambar 👋**
 Welcome to my GitHub profile! I'm a skilled AI and web developer with a background in generative AI, machine learning, and blockchain technology. I love creating smart, scalable web solutions that drive user engagement and innovation.
 
 About Me
